@@ -101,13 +101,22 @@
       <br /><strong>Jest</strong>
     </td>
      <td align="center" height="108" width="108">
-     <img
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
-       width="48"
-       height="48"
-       alt="Python"
-     />
-     <br /><strong>Python</strong>
+         <img
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+           width="48"
+           height="48"
+           alt="Python"
+         />
+         <br /><strong>Python</strong>
+    </td>
+      <td align="center" height="108" width="108">
+         <img
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"
+           width="48"
+           height="48"
+           alt="Django"
+         />
+         <br /><strong>Django</strong>
     </td>
   </tr>
 </table>

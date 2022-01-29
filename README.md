@@ -1,7 +1,7 @@
 # 👋 Hello!
 
-<div align="justify">
-    My name is Doug and I am passionate about all things technology, with a special interest in programming and modern web development.
+<div align="left">
+    My name is Doug and I am passionate about all things technology, with a special interest in coding and modern web development.
 </div>
 
 # 🔧 Technologies & Tools

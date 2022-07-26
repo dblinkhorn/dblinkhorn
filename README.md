@@ -46,21 +46,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/vuetify.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Vuetify"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Vuetify</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/vuedotjs.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Vue.js"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Vue.js</strong>
     </td>
   </tr>
   <tr>

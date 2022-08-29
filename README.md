@@ -1,9 +1,3 @@
-# 👋 Hello!
-
-<div align="left">
-    My name is Doug and I am passionate about all things technology, with a special interest in coding and modern web development.
-</div>
-
 # 🔧 Technologies & Tools
 
 <table>

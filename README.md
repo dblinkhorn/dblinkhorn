@@ -114,13 +114,3 @@
     </td>
   </tr>
 </table>
-
-# 📈 Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=dblinkhorn&show_icons=true&theme=vue&&hide_border=true"
-/>
-<br />
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dblinkhorn&&theme=vue&&hide_border=true"
-/>

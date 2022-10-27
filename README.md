@@ -40,15 +40,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuetify/vuetify-original.svg"
-        width="48"
-        height="48"
-        alt="Vuetify"
-      />
-      <br /><strong>Vuetify</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuejs/vuejs-original.svg"
         width="48"
         height="48"

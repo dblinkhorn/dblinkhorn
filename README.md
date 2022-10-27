@@ -36,7 +36,7 @@
         height="48"
         alt="TypeScript"
       />
-      <br /><strong>Vuetify</strong>
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img

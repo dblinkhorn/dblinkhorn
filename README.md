@@ -31,6 +31,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>Vuetify</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
@@ -49,6 +58,15 @@
     </td>
   </tr>
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vuetify/vuetify-original.svg"
+        width="48"
+        height="48"
+        alt="Vuetify"
+      />
+      <br /><strong>Vuetify</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
